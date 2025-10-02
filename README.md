@@ -46,7 +46,6 @@
       "
     >
      <center>
-    <em style="margin-top: 10px; color: #00ff40;">"Code is poetry written in logic"</em>
     </blockquote>
     I'm a passionate Computer Science student at University of Dire-Dawa, Ethiopia. I love building solutions with code and exploring new technologies!
     <br /><br />
