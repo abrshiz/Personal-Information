@@ -9,7 +9,7 @@ I love building solutions with code and exploring new technologies!
 - **Web:** HTML, CSS, JavaScript
 
 ## 🚀 About Me
-- 👨‍🎓 Currently studying SComputer Science at University of Dire-Dawa
+- 👨‍🎓 Currently studying Computer Science at University of Dire-Dawa
 - 💡 Interested in software development, web technologies, and learning new frameworks
 
 ## 🌐 Connect with Me
