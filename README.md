@@ -56,7 +56,7 @@
 </div>
 </cener>
   <div style="margin: 30px 0">
-    <a href="https://twitter.com/abrshiz">
+    <a href="https://twitter.com/abrsiz">
       <img
         src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0A0E27"
         alt="Twitter"
