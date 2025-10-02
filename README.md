@@ -55,41 +55,10 @@
 <div align="center">
 </div>
 </cener>
-  <div style="margin: 30px 0">
-    <a href="https://twitter.com/abrsiz">
-      <img
-        src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0A0E27"
-        alt="Twitter"
-      />
-      &nbsp;&nbsp;
-      <a href="https://www.linkedin.com/in/abrshiz">
-        <img
-          src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0E27"
-          alt="LinkedIn"
-        />
-      </a>
-      &nbsp;&nbsp;
-      <a href="https://github.com/abrshiz">
-        <img
-          src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0E27"
-          alt="GitHub"
-        />
-      </a>
-      &nbsp;&nbsp; <a href="mailto:abrshiz@yahoo.com">
-      <img
-        src="https://img.shields.io/badge/Email-FF0080?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0E27"
-        alt="Email"
-      />
-    </a>
-  </div>
-</div>
-
-<br />
-
-<div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=cylinder&height=80&color=gradient&text=Thanks%20for%20watching&animation=twinkling&section=footer&reversal=true&fontSize=40&textBg=false&descAlign=50&descAlignY=13&descSize=20&fontAlignY=49&fontAlign=49"
-    alt="Footer"
-  />
-</div>
-</body>
+  <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/abrsiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abrshiz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abrshiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abrshiz" height="30" width="40" /></a>
+<a href="https://fb.com/abrshiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abrshiz" height="30" width="40" /></a>
+<a href="https://instagram.com/abrshiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abrshiz" height="30" width="40" /></a>
+</p>
