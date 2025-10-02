@@ -90,6 +90,7 @@
 <div align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=cylinder&height=80&color=gradient&text=Thanks%20for%20watching&animation=twinkling&section=footer&reversal=true&fontSize=40&textBg=false&descAlign=50&descAlignY=13&descSize=20&fontAlignY=49&fontAlign=49"
-    alt="Footer" />
+    alt="Footer"
+  />
 </div>
 </body>
