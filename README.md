@@ -9,14 +9,14 @@ I love building solutions with code and exploring new technologies!
 - **Web:** HTML, CSS, JavaScript
 
 ## 🚀 About Me
-- 👨‍🎓 Currently studying Computer Science at University of Dire-Dawa
+- 👨‍🎓 Currently studying Software Engineering at University of Dire-Dawa
 - 💡 Interested in software development, web technologies, and learning new frameworks
 
 ## 🌐 Connect with Me
-- **Twitter:**(https://twitter.com/abrsiz)
-- **Instagram:**(https://instagram.com/abrshiz)
-- **Facebook:**(https://facebook.com/abrshiz)
-- **LinkedIn:**(https://linkedin.com/in/abrshiz)
+- **Twitter:** [@abrsiz](https://twitter.com/abrsiz)
+- **Instagram:** [@abrshiz](https://instagram.com/abrshiz)
+- **Facebook:** [@abrshiz](https://facebook.com/abrshiz)
+- **LinkedIn:** [@abrshiz](https://linkedin.com/in/abrshiz)
 
 ---
 
