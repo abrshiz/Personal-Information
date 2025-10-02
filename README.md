@@ -14,7 +14,6 @@
     />
   </h1>
 </div>
-
 <br />
 <div align="center">
   <h2>
@@ -22,7 +21,6 @@
   </h2>
 </div>
 </div>
-
 <br />
   </h2>
   <div style="background: linear-gradient(
