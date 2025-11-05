@@ -1,4 +1,4 @@
-8<!-- 🌟 Profile Header -->
+<!-- 🌟 Profile Header -->
 <div align="center">
 
   <h1>
@@ -91,12 +91,10 @@
 
 <!-- 📊 GitHub Stats -->
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=abrshiz&show_icons=true&theme=tokyonight&hide_border=true"
+  <img src="https://github-readme-stats.vercel.app/api?username=abrshiz&show_icons=true&theme=tokyonight&hide_border=true"
     height="180em"
   />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=abrshiz&theme=tokyonight&hide_border=true"
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abrshiz&theme=tokyonight&hide_border=true"
     height="180em"
   />
 </div>
