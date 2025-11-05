@@ -1,4 +1,4 @@
-<!-- 🌟 Profile Header -->
+8<!-- 🌟 Profile Header -->
 <div align="center">
 
   <h1>
@@ -109,5 +109,5 @@
     <em>“Code is like humor. When you have to explain it, it’s bad.”</em><br />
     <strong>— Cory House</strong>
   </p>
-  <p>✨ Made with ❤️ by <strong>Abrham</strong> ✨</p>
+  <p>✨ Made by <strong>Abrham</strong> ✨</p>
 </div>
