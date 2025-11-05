@@ -109,5 +109,5 @@
     <em>“Code is like humor. When you have to explain it, it’s bad.”</em><br />
     <strong>— Cory House</strong>
   </p>
-  <p>✨ Made by <strong>Abrham</strong> ✨</p>
+  <p> Made by <strong>Abrham</strong></p>
 </div>
